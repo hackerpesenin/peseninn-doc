@@ -1,6 +1,6 @@
 ---
-id: Auth
-tittle: Auth API
+id: Auth API
+tittle: Auth
 ---
 
 test

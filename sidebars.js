@@ -5,7 +5,7 @@ module.exports = {
       label: 'Docusaurus Tutorial',
       items: [
         'user-endpoint',
-        'Auth',
+        'Auth API',
         'order',
         'cafe',
         'payment',

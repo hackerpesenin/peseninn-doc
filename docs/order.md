@@ -1,5 +1,5 @@
 ---
-title: Order
+title: Order API
 ---
 
 Order endpoint

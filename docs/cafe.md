@@ -1,3 +1,3 @@
 ---
-title: Cafe
+title: Cafe API
 ---

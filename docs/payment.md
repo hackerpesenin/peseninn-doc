@@ -1,3 +1,3 @@
 ---
-title: Payment
+title: Payment API
 ---

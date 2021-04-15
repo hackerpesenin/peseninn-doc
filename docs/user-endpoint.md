@@ -1,5 +1,5 @@
 ---
-title: User
+title: User API
 ---
 
 Any about User will be right here
