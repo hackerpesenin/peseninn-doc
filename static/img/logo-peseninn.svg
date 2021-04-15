@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="200" height="200">
+<path style="fill:#000000; stroke:none;" d="M0 0L0 218L218 218L218 0L0 0z"/>
+<path style="fill:#ba9979; stroke:none;" d="M97 79L109 74L109 51C92.7178 51.3378 97 66.6642 97 79z"/>
+<path style="fill:#92a290; stroke:none;" d="M109 51L109 74C136.473 80.3771 116.389 109.017 122 128C135.824 124.008 132 109.719 132 98C132 88.2008 136.079 66.663 130.972 58.2631C127.109 51.9087 115.569 51.1356 109 51z"/>
+<path style="fill:#d3906a; stroke:none;" d="M93 126L93.108 89L96.892 77L99 52C95.4537 52.8936 90.0444 54.3751 87.7731 57.4954C85.557 60.54 87 67.3824 87 71L87 105C87 112.109 84.1034 124.145 93 126z"/>
+<path style="fill:#e8895b; stroke:none;" d="M87 123L87 59C60.7109 66.3799 65.761 113.095 87 123z"/>
+<path style="fill:#67a8a3; stroke:none;" d="M132 59L132 123C151.519 109.249 157.471 70.8791 132 59z"/>
+<path style="fill:#ff0000; stroke:none;" d="M76 67L77 68L76 67z"/>
+<path style="fill:#00ff00; stroke:none;" d="M143 70L144 71L143 70z"/>
+<path style="fill:#ff0000; stroke:none;" d="M73 72L74 73L73 72M71 77L72 78L71 77M99 77L100 78L99 77M70 100L71 101L70 100z"/>
+<path style="fill:#b59a7d; stroke:none;" d="M120 102C111.496 108.049 107.296 105.651 98 104L98 129C106.113 130.506 114.111 130.501 122 128L120 102z"/>
+<path style="fill:#ff0000; stroke:none;" d="M71 103L72 104L71 103z"/>
+<path style="fill:#de8b61; stroke:none;" d="M69 107C69 121.999 64.6518 144.898 69.7276 158.999C71.9411 165.149 77.0641 166.741 83 167L82.4113 133L71 107L69 107z"/>
+<path style="fill:#ff0000; stroke:none;" d="M74 110L75 111L74 110M79 128L80 129L79 128z"/>
+<path style="fill:#c9946f; stroke:none;" d="M83 133L83 167C98.9485 161.38 95.299 139.848 83 133z"/>
+<path style="fill:#ff0000; stroke:none;" d="M71 162L72 163L71 162M77 166L78 167L77 166z"/>
+</svg>
